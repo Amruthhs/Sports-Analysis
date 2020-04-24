@@ -11,12 +11,12 @@
 # Data Source 
 The data set is taken from kaggle.com, it has about 150k rows and 30+ columns, we are primarly intrested in features like venue, toss winner, toss decision, etc which help us to answer our main reserach questions 
 
-# Toss win match win 
+# Research Questions
+[1] Toss win match win 
 here we are trying to answer the question "what is the match winning percentage of a team who wins the toss?"
-bat first match win - "what are the chances of team winning that match who batted first?"
-
-#Home advantage- "how does team playing in its home ground has advanatge over away matches"
-home advantage+ toss winner - "what is the percentage of team winning a match if it plays in home ground and wins has won the toss"
+[2] bat first match win - "what are the chances of team winning that match who batted first?"
+[3] Home advantage- "how does team playing in its home ground has advanatge over away matches"
+[4] home advantage+ toss winner - "what is the percentage of team winning a match if it plays in home ground and wins has won the toss"
 
 # labelling the factors  
 "over the period of time, teams name changed but represented the same city, so we had to make sure that there was no ambuguity in team names and the city they represented  "
